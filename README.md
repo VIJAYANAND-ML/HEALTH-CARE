@@ -28,4 +28,4 @@ This project focuses on predicting disease outcomes based on patient clinical in
 - `README.md`: Project documentation.
 
 ## ✍️ Author
-[Your Name]
+[SAINATH]
